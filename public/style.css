@@ -1,0 +1,12 @@
+div.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div.qr{
+    padding: 50px;
+}
+
+
+

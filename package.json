@@ -1,0 +1,27 @@
+{
+  "name": "whats-appspam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sulla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "async": "^3.2.0",
+    "cli-spinner": "^0.2.10",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0",
+    "read-excel-file": "^4.0.6",
+    "string-content-spinner": "^1.0.0",
+    "sulla": "^2.3.14",
+    "venom-bot": "^1.0.0",
+    "xlsx": "^0.16.2"
+  }
+}

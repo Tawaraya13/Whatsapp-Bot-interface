@@ -1,0 +1,29 @@
+2020/06/14-11:24:23.193 1f58 Reusing MANIFEST D:\work folder\pijar-web-control-tower-master\whatsapp wrapper\whats app spam\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/14-11:24:23.249 1f58 Recovering log #49
+2020/06/14-11:24:23.352 1f58 Reusing old log D:\work folder\pijar-web-control-tower-master\whatsapp wrapper\whats app spam\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000049.log 
+2020/06/14-11:30:17.108 2570 Level-0 table #55: started
+2020/06/14-11:30:17.501 2570 Level-0 table #55: 1376895 bytes OK
+2020/06/14-11:30:17.607 2570 Delete type=0 #49
+2020/06/14-11:30:27.842 2570 Compacting 1@1 + 2@2 files
+2020/06/14-11:30:28.948 2570 Generated table #56@1: 37628 keys, 2225861 bytes
+2020/06/14-11:30:29.572 2570 Generated table #57@1: 44416 keys, 2061136 bytes
+2020/06/14-11:30:29.572 2570 Compacted 1@1 + 2@2 files => 4286997 bytes
+2020/06/14-11:30:29.670 2570 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/06/14-11:30:29.672 2570 Delete type=2 #51
+2020/06/14-11:30:29.673 2570 Delete type=2 #52
+2020/06/14-11:30:29.673 2570 Delete type=2 #55
+2020/06/14-11:36:27.244 2570 Level-0 table #59: started
+2020/06/14-11:36:27.585 2570 Level-0 table #59: 1374252 bytes OK
+2020/06/14-11:36:27.672 2570 Delete type=0 #54
+2020/06/14-11:36:40.520 2570 Compacting 1@1 + 2@2 files
+2020/06/14-11:36:41.306 2570 Generated table #60@1: 37783 keys, 2225549 bytes
+2020/06/14-11:36:41.806 2570 Generated table #61@1: 49472 keys, 2364228 bytes
+2020/06/14-11:36:41.872 2570 Generated table #62@1: 28 keys, 4935 bytes
+2020/06/14-11:36:41.872 2570 Compacted 1@1 + 2@2 files => 4594712 bytes
+2020/06/14-11:36:41.993 2570 compacted to: files[ 0 0 3 0 0 0 0 ]
+2020/06/14-11:36:41.994 2570 Delete type=2 #56
+2020/06/14-11:36:41.995 2570 Delete type=2 #57
+2020/06/14-11:36:41.995 2570 Delete type=2 #59
+2020/06/14-17:25:01.171 2570 Level-0 table #64: started
+2020/06/14-17:25:11.451 2570 Level-0 table #64: 1513511 bytes OK
+2020/06/14-17:25:13.455 2570 Delete type=0 #58

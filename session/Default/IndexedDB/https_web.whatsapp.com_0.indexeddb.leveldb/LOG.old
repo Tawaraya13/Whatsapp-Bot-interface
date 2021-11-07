@@ -1,0 +1,36 @@
+2020/06/13-18:57:20.427 2e7c Reusing MANIFEST D:\work folder\pijar-web-control-tower-master\whatsapp wrapper\whats app spam\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/13-18:57:20.428 2e7c Recovering log #36
+2020/06/13-18:57:20.480 2e7c Reusing old log D:\work folder\pijar-web-control-tower-master\whatsapp wrapper\whats app spam\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2020/06/13-19:02:17.846 2804 Level-0 table #42: started
+2020/06/13-19:02:18.246 2804 Level-0 table #42: 1367008 bytes OK
+2020/06/13-19:02:18.382 2804 Delete type=0 #36
+2020/06/13-19:02:20.558 2804 Compacting 1@1 + 2@2 files
+2020/06/13-19:02:21.178 2804 Generated table #43@1: 37736 keys, 2225917 bytes
+2020/06/13-19:02:21.564 2804 Generated table #44@1: 29014 keys, 1081493 bytes
+2020/06/13-19:02:21.564 2804 Compacted 1@1 + 2@2 files => 3307410 bytes
+2020/06/13-19:02:21.959 2804 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/06/13-19:02:21.960 2804 Delete type=2 #38
+2020/06/13-19:02:21.960 2804 Delete type=2 #39
+2020/06/13-19:02:21.960 2804 Delete type=2 #42
+2020/06/13-19:08:35.608 2804 Level-0 table #46: started
+2020/06/13-19:08:35.853 2804 Level-0 table #46: 1402514 bytes OK
+2020/06/13-19:08:35.961 2804 Delete type=0 #41
+2020/06/13-19:08:54.393 2804 Compacting 1@1 + 2@2 files
+2020/06/13-19:08:55.179 2804 Generated table #47@1: 37727 keys, 2225686 bytes
+2020/06/13-19:08:55.570 2804 Generated table #48@1: 34019 keys, 1420520 bytes
+2020/06/13-19:08:55.570 2804 Compacted 1@1 + 2@2 files => 3646206 bytes
+2020/06/13-19:08:55.676 2804 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/06/13-19:08:55.678 2804 Delete type=2 #43
+2020/06/13-19:08:55.679 2804 Delete type=2 #44
+2020/06/13-19:08:55.679 2804 Delete type=2 #46
+2020/06/13-19:14:02.563 2804 Level-0 table #50: started
+2020/06/13-19:14:02.898 2804 Level-0 table #50: 1395416 bytes OK
+2020/06/13-19:14:03.098 2804 Delete type=0 #45
+2020/06/13-19:14:12.843 2804 Compacting 1@1 + 2@2 files
+2020/06/13-19:14:13.108 2804 Generated table #51@1: 37623 keys, 2224658 bytes
+2020/06/13-19:14:13.932 2804 Generated table #52@1: 39096 keys, 1751513 bytes
+2020/06/13-19:14:13.932 2804 Compacted 1@1 + 2@2 files => 3976171 bytes
+2020/06/13-19:14:14.086 2804 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/06/13-19:14:14.087 2804 Delete type=2 #47
+2020/06/13-19:14:14.087 2804 Delete type=2 #48
+2020/06/13-19:14:14.087 2804 Delete type=2 #50
